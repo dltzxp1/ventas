@@ -1,0 +1,204 @@
+/* === color === */
+
+a, a:hover,a:focus,a:active, footer a.text-link:hover, strike, footer ul.link-list li a:hover, .post-meta span a:hover, footer a.text-link, 
+ul.meta-post li a:hover, ul.cat li a:hover, ul.recent li h6 a:hover, ul.portfolio-categ li.active a, ul.portfolio-categ li.active a:hover, ul.portfolio-categ li a:hover,ul.related-post li h4 a:hover, span.highlight,article .post-heading h3 a:hover,
+.navbar .nav > .active > a,.navbar .nav > .active > a:hover,.navbar .nav > li > a:hover,.navbar .nav > li > a:focus,.navbar .nav > .active > a:focus, .validation  { 
+    color:#00abeb ;
+}
+
+/* === background color === */
+.navbar .nav > .active.dropdown > a.dropdown-toggle,
+.navbar .nav > .active.dropdown > a.dropdown-toggle:hover,
+.navbar .nav > .active.dropdown > a.dropdown-toggle:focus,
+.custom-carousel-nav.right:hover, .custom-carousel-nav.left:hover, 
+.dropdown-menu li:hover,
+.dropdown-menu li a:hover,
+.dropdown-menu li > a:focus,
+.dropdown-submenu:hover > a, 
+.dropdown-menu .active > a,
+.dropdown-menu .active > a:hover,
+.pagination ul > .active > a:hover,
+.pagination ul > .active > a,
+.pagination ul > .active > span,
+.flex-control-nav li a:hover, 
+.flex-control-nav li a.active {
+    background-color: #00abeb ;
+}
+
+/* === border color === */
+.pagination ul > li.active > a,
+.pagination ul > li.active > span, a.thumbnail:hover, input[type="text"].search-form:focus {
+    border:1px solid #00abeb ;
+}
+
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+    border-color: #00abeb ;
+}
+
+input:focus {
+    border-color: #00abeb ;
+}
+
+
+#sendmessage {
+    color: #00abeb ;
+}
+
+.pullquote-left {
+    border-left:5px solid #00abeb ;
+}
+
+.pullquote-right {
+    border-right:5px solid #00abeb ;
+}
+
+
+/* === Header === */
+/* --- toggle top area --- */
+.hidden-top {	
+    color:white;
+    -webkit-box-shadow: 2px 2px 5px Rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 2px 2px 5px Rgba(0, 0, 0, 0.5);
+
+    background: #00abeb;
+    background-image: -moz-linear-gradient(#00abeb,#00abeb);
+    background-image: -ms-linear-gradient(top, #00abeb, #00abeb);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#00abeb), to(#00abeb));
+    background-image: -webkit-linear-gradient(top, #00abeb, #00abeb);
+}
+#header-hidden-link a.toggle-link,
+#header-hidden-link a.top-link {
+    background:#00abeb;
+}
+
+
+/* carousel */
+.jcarousel-skin-tango .jcarousel-prev-horizontal:hover, 
+.jcarousel-skin-tango .jcarousel-prev-horizontal:focus,
+.jcarousel-skin-tango .jcarousel-next-horizontal:hover, 
+.jcarousel-skin-tango .jcarousel-next-horizontal:focus
+{
+    background:#00abeb ;
+}
+
+ul.clients li:hover {
+    border:4px solid #00abeb ;
+}
+
+/* buttons */
+.btn-dark:hover,.btn-dark:focus,.btn-dark:active  {
+    background: #00abeb ;
+    border:1px solid #00abeb ;
+}
+
+.btn-theme {
+    border:1px solid #00abeb ;
+    background: #00abeb ;
+}
+
+/* modal styled */
+.modal.styled .modal-header {
+    background-color: #00abeb ;
+}
+
+
+/* blog */
+.post-meta {
+    border-top:4px solid #00abeb ;
+}
+
+.post-meta .comments a:hover  {
+    color:#00abeb ;
+}
+
+.widget ul.tags li a:hover {
+    background: #00abeb ;
+}
+
+.recent-post .text h5 a:hover{
+    color:#00abeb ;
+}
+
+/* pricing box */
+
+.pricing-box-alt.special .pricing-heading {
+    background: #00abeb ;
+}
+
+
+/* portfolio */
+.item-thumbs .hover-wrap .overlay-img {
+    background: #00abeb ;	
+}
+
+
+/* pagination */
+#pagination a:hover {
+    background: #00abeb ;
+}
+
+/* pricing box */
+.pricing-box.special .pricing-offer{
+    background: #00abeb ;
+}
+
+
+/* fontawesome icons */
+.icon-square:hover,
+.icon-rounded:hover,
+.icon-circled:hover {
+    background-color: #00abeb ;
+}
+[class^="icon-"].active,
+[class*=" icon-"].active {
+    background-color: gold;
+    height: 22px;
+    width: 20px;
+}
+
+/* fancybox */
+.fancybox-close:hover { 
+}
+.fancybox-nav:hover span {
+    
+}
+
+/* parallax c slider */
+.da-slide .da-link:hover{
+    background: #FDD700;
+    border: 4px solid #00abeb ;
+}
+
+.da-dots span{
+    background: #00abeb ;
+}
+
+/* flexslider */
+#featured .flexslider .slide-caption {
+    border-left:5px solid #00abeb ;
+}
+
+/* Nivo slider */
+.nivo-directionNav a:hover {
+    background-color: #00abeb ;
+}
+.nivo-caption, .caption {
+    border-top: #00abeb  5px solid;
+}
+
+/* footer */ 
